@@ -20,6 +20,7 @@ public class ThreadPool1Test implements InitializingBean {
 
         threadPoolExecutor.submit(() -> System.out.println("hello1"));
 
+        
       
     }
 }
