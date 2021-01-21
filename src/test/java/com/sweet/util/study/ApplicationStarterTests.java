@@ -1,4 +1,4 @@
-package com.sweet.study;
+package com.sweet.util.study;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.sweet.study.partnerlogin;
+package com.sweet.util.study.partnerlogin;
 
 public interface LoginCheck {
 

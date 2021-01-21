@@ -1,4 +1,4 @@
-package com.sweet.study.chainofresponsibility1;
+package com.sweet.util.study.chainofresponsibility1;
 
 public class HaveBreakfastFilter extends AbstractPrepareFilter {
 

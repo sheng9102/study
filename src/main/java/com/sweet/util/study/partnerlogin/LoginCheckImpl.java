@@ -1,4 +1,4 @@
-package com.sweet.study.partnerlogin;
+package com.sweet.util.study.partnerlogin;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

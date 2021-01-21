@@ -1,6 +1,6 @@
-package com.sweet.study.chainofresponsibility2;
+package com.sweet.util.study.chainofresponsibility2;
 
-import com.sweet.study.chainofresponsibility1.PreparationList;
+import com.sweet.util.study.chainofresponsibility1.PreparationList;
 
 public class HaveBreakfastFilter implements StudyPrepareFilter {
 
